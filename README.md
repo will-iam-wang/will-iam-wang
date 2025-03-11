@@ -1,1 +1,1 @@
-![](https://github.com/will-iam-wang/typeracer-result-plotter/blob/main/race_plot_May032024.png)
+![](https://projecteuler.net/profile/will_wang.png)
